@@ -1,3 +1,6 @@
-# My Awesome Book
+# [Rat Race](https://en.wikipedia.org/wiki/Rat_race)
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+История одного спора с самим собой.
+
+
+
