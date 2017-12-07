@@ -5,4 +5,5 @@
 * [Угрозы](ugrozi.md)
 * [Кругозор](krugozor.md)
 * [Безопасность](bezopasnost.md)
+* [Хайп](haip.md)
 
