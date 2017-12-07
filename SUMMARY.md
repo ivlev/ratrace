@@ -8,4 +8,5 @@
 * [Хайп](haip.md)
 * [Киберкульт](kiberkult.md)
 * [IoT](iot.md)
+* [Обучение](obuchenie.md)
 
