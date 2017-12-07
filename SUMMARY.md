@@ -9,4 +9,5 @@
 * [Киберкульт](kiberkult.md)
 * [IoT](iot.md)
 * [Обучение](obuchenie.md)
+* [Рожественские истории](rozhestvenskie-istorii.md)
 
