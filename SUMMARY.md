@@ -7,4 +7,5 @@
 * [Безопасность](bezopasnost.md)
 * [Хайп](haip.md)
 * [Киберкульт](kiberkult.md)
+* [IoT](iot.md)
 
