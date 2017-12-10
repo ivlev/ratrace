@@ -12,5 +12,5 @@
 * [Рожественские истории](rozhestvenskie-istorii.md)
 * [Инструменты, виджеты и прочие бантики](instrumenti-vidzheti-i-prochie-bantiki.md)
 * [Азбука](azbuka.md)
-* За пределами азбуки
+* [За пределами азбуки](za-predelami-azbuki.md)
 
