@@ -10,4 +10,5 @@
 * [IoT](iot.md)
 * [Обучение](obuchenie.md)
 * [Рожественские истории](rozhestvenskie-istorii.md)
+* [Инструменты, виджеты и прочие бантики](instrumenti-vidzheti-i-prochie-bantiki.md)
 
