@@ -24,7 +24,7 @@
 
 [https://ria.ru/technology/20171210/1510585686.html](https://ria.ru/technology/20171210/1510585686.html)
 
-Программисты из компании enSilo продемонстрировали на конференции Black Hat Europe 2017 новую методику, которая позволяет взломать все версии Windows, оставаясь незамеченной антивирусными программами. Об этом пишет [Bleeping Computer](https://www.bleepingcomputer.com/news/security/-process-doppelg-nging-attack-works-on-all-windows-versions/)
+Программисты из компании enSilo продемонстрировали на конференции Black Hat Europe 2017 новую методику, которая позволяет взломать все версии Windows, оставаясь незамеченной антивирусными программами. Об этом пишет [Bleeping Computer](https://www.bleepingcomputer.com/news/security/-process-doppelg-nging-attack-works-on-all-windows-versions/)
 
 
 
