@@ -13,5 +13,5 @@
 * [Инструменты, виджеты и прочие бантики](instrumenti-vidzheti-i-prochie-bantiki.md)
 * [Азбука](azbuka.md)
 * [За пределами азбуки](za-predelami-azbuki.md)
-* [HR](hr.md)
+* Образование
 
