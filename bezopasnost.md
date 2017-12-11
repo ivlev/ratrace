@@ -26,5 +26,11 @@
 
 Программисты из компании enSilo продемонстрировали на конференции Black Hat Europe 2017 новую методику, которая позволяет взломать все версии Windows, оставаясь незамеченной антивирусными программами. Об этом пишет [Bleeping Computer](https://www.bleepingcomputer.com/news/security/-process-doppelg-nging-attack-works-on-all-windows-versions/)
 
+# [German spy agency warns of Chinese LinkedIn espionage](http://www.bbc.com/news/world-europe-42304297)
+
+[http://www.bbc.com/news/world-europe-42304297](http://www.bbc.com/news/world-europe-42304297)
+
+The agency alleges that Chinese intelligence used the networking site to target at least 10,000 Germans, possibly to recruit them as informants.
+
 
 
