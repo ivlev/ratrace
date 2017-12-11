@@ -32,5 +32,9 @@
 
 The agency alleges that Chinese intelligence used the networking site to target at least 10,000 Germans, possibly to recruit them as informants.
 
+# [Perth Airport hack: Vietnamese hacker steals significant amount of security details, building plans](/h ttp://www.ibtimes.co.uk/perth-airport-hack-vietnamese-hacker-steals-significant-amount-security-data-building-plans-1650933)
 
+[http://www.ibtimes.co.uk/perth-airport-hack-vietnamese-hacker-steals-significant-amount-security-data-building-plans-1650933](/h ttp://www.ibtimes.co.uk/perth-airport-hack-vietnamese-hacker-steals-significant-amount-security-data-building-plans-1650933)
+
+A Vietnamese hacker managed to break into Perth International Airport's computer systems and steal a "significant amount" of sensitive security details and building plans. Le Duc Hoang Hai, 31, used the credentials of a third-party contractor to illegally access the airport's systems in March last year, [The West Australian reported](https://thewest.com.au/news/wa/significant-amount-of-sensitive-security-data-stolen-in-perth-airport-hacking-ng-b88686393z) on Monday \(11 December\).
 
