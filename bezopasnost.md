@@ -44,5 +44,5 @@ A Vietnamese hacker managed to break into Perth International Airport's computer
 
 [https://habrahabr.ru/post/344572/](https://habrahabr.ru/post/344572/)
 
-
+Недавнее сканирование сайтов из топ 100 по посещаемости выявило что 27 из них, включая Facebook и PayPal cодержали уязвимость, очень похожую на обнаруженную в 1998 году исследователем [Даниэлем Блейхенбахером](http://archiv.infsec.ethz.ch/education/fs08/secsem/bleichenbacher98.pdf) \(Daniel Bleichenbacher\) в SSL. Ошибка в алгоритме управляющем ключами RSA позволяла с помощью определенных запросов расшифровать данные, не имея ключа шифрования. Уязвимость в алгоритме не исправили, а внедрили некие обходные пути, которые закрыли уязвимость.
 
