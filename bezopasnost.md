@@ -38,3 +38,11 @@ The agency alleges that Chinese intelligence used the networking site to target 
 
 A Vietnamese hacker managed to break into Perth International Airport's computer systems and steal a "significant amount" of sensitive security details and building plans. Le Duc Hoang Hai, 31, used the credentials of a third-party contractor to illegally access the airport's systems in March last year, [The West Australian reported](https://thewest.com.au/news/wa/significant-amount-of-sensitive-security-data-stolen-in-perth-airport-hacking-ng-b88686393z) on Monday \(11 December\).
 
+#### 2017/12/13
+
+# [Уязвимость из 1998 года снова в строю – встречайте ROBOT](https://habrahabr.ru/post/344572/)
+
+[https://habrahabr.ru/post/344572/](https://habrahabr.ru/post/344572/)
+
+
+

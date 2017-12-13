@@ -12,5 +12,9 @@
 
 [https://next.reality.news/news/disney-has-figured-out-make-ar-content-react-real-world-obstacles-0181601/](/h ttps://next.reality.news/news/disney-has-figured-out-make-ar-content-react-real-world-obstacles-0181601/)
 
-Заччччем на квантовые компьютеры? Например, для того, чтобы создавать  игры и развлечения с дополненной реальностью. Чем сложнее взаимоддеййствие персонажа с окружающей средой - тем болльше нобходимая ему вычислительная мощность. Продавцы развлчений, основательно разочаровавшись перспективах в 3D 
+Зачем на квантовые компьютеры? Например, для того, чтобы создавать  игры и развлечения с дополненной реальностью. Чем сложнее взаимодействие персонажа с окружающей средой - тем больше нобходимая ему вычислительная мощность. Продавцы развлчений, основательно разочаровавшись перспективах в 3D где-то там, внутри студии Диснея, вытаскивают персонажей с экрана и пытаются заставить их бродить по ральной комнате ребенка. В  идеале кухонную галлюцинанцию над которой надо было работать всю жизнь, вскоре можно будет получить по подписке. За $9.9 на пять комнат.
+
+Researchers at Disney have demonstrated the ability to render virtual characters in augmented reality that are able interact autonomously with its surrounding physical environment.
+
+So imagine that you have a virtual porg placed on your living room floor. Based on the research presented by the team at Disney, it would be possible to have that porg jump up a flight of stairs, or fall over if it were run over by a rambunctious puppy.
 
