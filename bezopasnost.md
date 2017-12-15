@@ -46,3 +46,11 @@ A Vietnamese hacker managed to break into Perth International Airport's computer
 
 Недавнее сканирование сайтов из топ 100 по посещаемости выявило что 27 из них, включая Facebook и PayPal cодержали уязвимость, очень похожую на обнаруженную в 1998 году исследователем [Даниэлем Блейхенбахером](http://archiv.infsec.ethz.ch/education/fs08/secsem/bleichenbacher98.pdf) \(Daniel Bleichenbacher\) в SSL. Ошибка в алгоритме управляющем ключами RSA позволяла с помощью определенных запросов расшифровать данные, не имея ключа шифрования. Уязвимость в алгоритме не исправили, а внедрили некие обходные пути, которые закрыли уязвимость.
 
+#### 2017/12/16
+
+# [Любители Minecraft признались в создании мощного оружия против интернета](/h ttps://news.rambler.ru/internet/38674421-lyubiteli-minecraft-priznalis-v-sozdanii-moschnogo-virusa/)
+
+[https://news.rambler.ru/internet/38674421-lyubiteli-minecraft-priznalis-v-sozdanii-moschnogo-virusa/](/h ttps://news.rambler.ru/internet/38674421-lyubiteli-minecraft-priznalis-v-sozdanii-moschnogo-virusa/)
+
+Если говорить словами японских классических боевиков, перед вами история как одни якудза поджигали поля крестьян чтобы они переходили работать на их поля. И для этого они отдали секрет заточки мечей другим якудза. И происходило все на полях с квадратными барашками. Жуткая история.    
+
