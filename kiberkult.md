@@ -18,3 +18,13 @@ Researchers at Disney have demonstrated the ability to render virtual characters
 
 So imagine that you have a virtual porg placed on your living room floor. Based on the research presented by the team at Disney, it would be possible to have that porg jump up a flight of stairs, or fall over if it were run over by a rambunctious puppy.
 
+# [Microsoft выпустил бесплатную книгу о будущем искусственного интеллекта](https://rb.ru/story/microsoft-book/)
+
+[https://rb.ru/story/microsoft-book/](https://rb.ru/story/microsoft-book/)
+
+Компания Microsoft опубликовала в свободном доступе англоязычную книгу своих сотрудников «The Future Computed: Artificial Intelligence and its role in society» о роли искусственного интеллекта в обществе будущего. Об этом [говорится](https://blogs.microsoft.com/blog/2018/01/17/future-computed-artificial-intelligence-role-society/) в блоге компании.
+
+[https://msblob.blob.core.windows.net/ncmedia/2018/01/The-Future-Computed.pdf](https://msblob.blob.core.windows.net/ncmedia/2018/01/The-Future-Computed.pdf)
+
+
+
