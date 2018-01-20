@@ -28,5 +28,17 @@ AlphaGo Zero, самообучающаяся программа для игры 
 
 В борьбу с недостоверной информацией в соцсетях включились не только крупные технологические компании, такие как Facebook, Google и Twitter, но и некоторые стартапы. Они видят в борьбе с фейковыми новостями возможность прибыльного бизнеса. Среди компаний, которые занимаются борьбой с фейковыми новостями, Crisp, New Knowledge, Cisco, Distil Networks. Часть из них, в том числе Crisp и New Knowledge, начинали с борьбы с кибертерроризмом, другие, включая Cisco и Distil Networks, используют в борьбе с фейковыми новостями тактику, с помощью которой они противодействуют хакерам.
 
+# [Google’s Family Link app will help you monitor your child’s online activity](http://www.talkandroid.com/324712-googles-family-link-app-will-help-you-monitor-your-childs-online-activity/)
+
+[http://www.talkandroid.com/324712-googles-family-link-app-will-help-you-monitor-your-childs-online-activity/](http://www.talkandroid.com/324712-googles-family-link-app-will-help-you-monitor-your-childs-online-activity/)
+
+After using Family Link to set up a Google account for your child that has access to most of the usual Google services, you’ll be able to set the following parental controls:
+
+* Manage the apps your child can use – Approve or block the apps that your child wants to download from the Google Play Store
+* Keep an eye on their screen time – See how much time your child spends on their favorite apps with weekly or monthly reports and set daily screen time limits
+* Set device bedtime – Remotely lock devices when it’s time for bed, or just time to take a break.
+
+
+
 
 

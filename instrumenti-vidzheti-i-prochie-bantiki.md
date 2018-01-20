@@ -16,9 +16,11 @@ In our [Kali Pi tutorial](https://null-byte.wonderhowto.com/how-to/set-up-headle
 
 В современном мире сложно сохранить какую-либо информацию в тайне. Особенно если она представляет ценность для кого-либо и вам нужно ее передать. Не важно, какие у вас причины на сокрытие тех или иных данных, в этой статье рассмотрим основные методы и программные средства для сохранения информации в тайне.
 
+# [Using Python for Science](http://www.linuxjournal.com/content/using-python-science)
 
+[http://www.linuxjournal.com/content/using-python-science](http://www.linuxjournal.com/content/using-python-science)
 
+I've looked at several ways you could use Python to do scientific calculations in the past, but I've never actually covered how to set up and use Python itself in a way that makes scientific work easier. Anaconda does just that.
 
-
-
+The default installation includes a large number of Python modules that are useful when doing data science—or really any other type of scientific computing. Installation is relatively easy. You can find download links on the [main Anaconda site](https://www.continuum.io/) that will allow you to choose between Mac OS X, Windows and Linux.
 
