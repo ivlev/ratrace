@@ -26,5 +26,13 @@
 
 [https://proglib.io/p/27-puzzle-websites-to-sharpen-your-skills/](https://proglib.io/p/27-puzzle-websites-to-sharpen-your-skills/)
 
-27 **самых популярных сайтов с задачками по программированию**
+27 **самых популярных сайтов с задачками по программированию**
+
+# [Кто такой Data Scientist — глазами работодателя. Интервью с Авито и Spice IT](https://habrahabr.ru/company/netologyru/blog/347062/)
+
+[https://habrahabr.ru/company/netologyru/blog/347062/](https://habrahabr.ru/company/netologyru/blog/347062/)
+
+Ксения Суворова, директор по развитию [Фонтанки.ру](http://www.fontanka.ru/) , и Андрей Мирошниченко, координатор офлайн-программы «[Data Scientist](https://netology.ru/programs/data-scientist#/presentation?utm_source=blog&utm_medium=747&utm_campaign=habr) », специально для блога [Нетологии](https://netology.ru/?utm_source=blog&utm_medium=747&utm_campaign=habr) подготовили интервью с представителями компании Авито и HR-агентства Spice IT о том, чего ждет рынок от представителей профессии Data Scientist.
+
+Сейчас почти каждая статья о data science или машинном обучении начинается с того, что «три года назад американская исследовательская компания подсчитала, что через четыре года будет нужен миллион data scientist’ов». И даже в России ощущается острая нехватка людей с экспертизой. При этом есть множество возможностей освоить эту сферу: онлайн и офлайн-курсы, тренажёры и книги — то есть исправить текущую ситуацию реально. Беседовал Андрей Мирошниченко — координатор офлайн-программы «Data Scientist».
 
