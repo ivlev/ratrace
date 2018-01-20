@@ -28,13 +28,17 @@ AlphaGo Zero, самообучающаяся программа для игры 
 
 В борьбу с недостоверной информацией в соцсетях включились не только крупные технологические компании, такие как Facebook, Google и Twitter, но и некоторые стартапы. Они видят в борьбе с фейковыми новостями возможность прибыльного бизнеса. Среди компаний, которые занимаются борьбой с фейковыми новостями, Crisp, New Knowledge, Cisco, Distil Networks. Часть из них, в том числе Crisp и New Knowledge, начинали с борьбы с кибертерроризмом, другие, включая Cisco и Distil Networks, используют в борьбе с фейковыми новостями тактику, с помощью которой они противодействуют хакерам.
 
-#### 2017/12/16
+# [Google’s Family Link app will help you monitor your child’s online activity](http://www.talkandroid.com/324712-googles-family-link-app-will-help-you-monitor-your-childs-online-activity/)
 
-# [Американским провайдерам разрешили "тормозить" и "разгонять" трафик](https://hitech.vesti.ru/article/718365/)
+[http://www.talkandroid.com/324712-googles-family-link-app-will-help-you-monitor-your-childs-online-activity/](http://www.talkandroid.com/324712-googles-family-link-app-will-help-you-monitor-your-childs-online-activity/)
 
-[https://hitech.vesti.ru/article/718365/](https://hitech.vesti.ru/article/718365/)
+After using Family Link to set up a Google account for your child that has access to most of the usual Google services, you’ll be able to set the following parental controls:
 
-Федеральная комиссия по связи \(FCC\) США тремя голосами против двух [приняла](https://www.fcc.gov/document/fcc-takes-action-restore-internet-freedom) в четверг решение отменить введенное при администрации президента Барака Обамы правило "сетевого нейтралитета". Оно обязывало интернет-провайдеров обрабатывать любой трафик одинаково, не предоставляя ни одному сервису повышенную пропускную способность и не замедляя передачу данных тех или иных сайтов.
+* Manage the apps your child can use – Approve or block the apps that your child wants to download from the Google Play Store
+* Keep an eye on their screen time – See how much time your child spends on their favorite apps with weekly or monthly reports and set daily screen time limits
+* Set device bedtime – Remotely lock devices when it’s time for bed, or just time to take a break.
 
-В контролируемой республиканцами Комиссии решение назвали "восстановлением свободы" в Интернете и настаивают, что оно "повысит прозрачность для защиты пользователей", "простимулирует инвестиции и инновации" и "повысит конкуренцию". Фактически же провайдеры теперь смогут взимать с интернет-компаний плату за то, что их трафик оперативно доходит до потребителей — а это может повредить конкуренции и ограничить пользователям выбор, например, на рынке видеостриминга.
+
+
+
 
