@@ -38,7 +38,19 @@ After using Family Link to set up a Google account for your child that has acces
 * Keep an eye on their screen time – See how much time your child spends on their favorite apps with weekly or monthly reports and set daily screen time limits
 * Set device bedtime – Remotely lock devices when it’s time for bed, or just time to take a break.
 
+# [Подростки в соцсетях: небезопасная жизнь](http://www.bbc.com/russian/features-42705761)
 
+[http://www.bbc.com/russian/features-42705761](http://www.bbc.com/russian/features-42705761)
+
+На Западе все больше беспокойства вызывает жизнь подростков в соцсетях. Однако на полные запреты - как и в России - не решается никто.
+
+По [данным центра исследований общественного мнения Pew](http://www.pewresearch.org/fact-tank/2017/04/20/not-everyone-in-advanced-economies-is-using-social-media/), Швеция и Нидерланды стали лидерами по вовлечённости подростков в общению в соцсетях: в крупнейшей скандинавской стране таких 71%, в то время как в Голландии - 70%.
+
+Далее из европейских стран идут Испания с 63% и Великобритания, где таких тинейджеров 61%.
+
+При этом интересный опыт наблюдается у французских и немецких юношей и девушек: так, во Франции только 48% подростков сказали, что используют соцсети, в то время как общий процент сидящих в интернете юношей и девушек доходит до 81%.
+
+В Германии разрыв ещё больше - аж 49% подростков сказали, что присутствуют в интернете, не заходя в Facebook или Twitter.
 
 
 
