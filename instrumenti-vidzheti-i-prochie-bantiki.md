@@ -24,3 +24,13 @@ I've looked at several ways you could use Python to do scientific calculations i
 
 The default installation includes a large number of Python modules that are useful when doing data science—or really any other type of scientific computing. Installation is relatively easy. You can find download links on the [main Anaconda site](https://www.continuum.io/) that will allow you to choose between Mac OS X, Windows and Linux.
 
+# [Крошечный и быстрый оригами-робот milliDelta из Гарварда удивляет своей быстротой](https://geektimes.ru/post/297373/)
+
+[https://geektimes.ru/post/297373/](https://geektimes.ru/post/297373/)
+
+Роботов существует великое множество. Одно из семейств — дельта-роботы, разновидность параллельных роботов. Состоят представители семейства из трех рычагов, которые прикреплены посредством карданных шарниров к основанию. Особенность, которую можно назвать ключевой — использование в конструкции манипулятора параллелограммов. Это позволяет сохранить пространственную ориентацию исполнительного устройства робота. Впервые подобная система [была создана](https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%BB%D1%8C%D1%82%D0%B0-%D1%80%D0%BE%D0%B1%D0%BE%D1%82) в начале 1980-х Реймондом Клавелем.
+
+Недавно был представлен очередной робот, созданный робототехником из Гарварда \( [Robert Wood](https://www.seas.harvard.edu/directory/rjwood)[Microrobotics Lab at Harvard](http://micro.seas.harvard.edu/) \) Хейли Макклинтоком \(Hayley McClintock\). Система примечательна тем, что это самый маленький из дельта-роботов. Его размеры составляют всего 15 мм\*15 мм\*20 мм, а вес — 430 миллиграммов. Тем не менее, он может переносить полезный груз весом в 1,3 грамма. Точность движений робота составляет 5 микрометров. Но больше всего удивляет то, с какой скоростью этот робот способен двигаться: около 0,45 м/с, с ускорением в 215 м/с2
+
+.
+
