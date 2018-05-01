@@ -62,7 +62,7 @@ A Vietnamese hacker managed to break into Perth International Airport's computer
 
 After interviewing information security experts and experienced online-security journalists, we learned no single app can protect you from an ever-changing array of new malware. The best protection consists of setting up and maintaining layers of security on your devices: keeping your operating system, browsers, and software updated, paying for [decent but not overbearing virus and malware protection](https://thewirecutter.com/blog/best-antivirus/), installing browser extensions for Web privacy and security, and getting into smart security habits.
 
-
+##### \(сделать перевод и представить\)
 
 
 
