@@ -48,9 +48,21 @@ A Vietnamese hacker managed to break into Perth International Airport's computer
 
 #### 2017/12/16
 
-# [Любители Minecraft признались в создании мощного оружия против интернета](/h ttps://news.rambler.ru/internet/38674421-lyubiteli-minecraft-priznalis-v-sozdanii-moschnogo-virusa/)
+# [Любители Minecraft признались в создании мощного оружия против интернета](/h ttps://news.rambler.ru/internet/38674421-lyubiteli-minecraft-priznalis-v-sozdanii-moschnogo-virusa/)
 
 [https://news.rambler.ru/internet/38674421-lyubiteli-minecraft-priznalis-v-sozdanii-moschnogo-virusa/](/h ttps://news.rambler.ru/internet/38674421-lyubiteli-minecraft-priznalis-v-sozdanii-moschnogo-virusa/)
 
-Если говорить словами японских классических боевиков, перед вами история как одни якудза поджигали поля крестьян чтобы они переходили работать на их поля. И для этого они отдали секрет заточки мечей другим якудза. И происходило все на полях с квадратными барашками. Жуткая история.    
+Если говорить словами японских классических боевиков, перед вами история как одни якудза поджигали поля крестьян чтобы они переходили работать на их поля. И для этого они отдали секрет заточки мечей другим якудза. И происходило все на полях с квадратными барашками. Жуткая история.
+
+### 2018/05/01
+
+# [The Best Internet Security: Layers of Protection, and Good Habits](https://thewirecutter.com/blog/internet-security-layers/)
+
+[https://thewirecutter.com/blog/internet-security-layers/](https://thewirecutter.com/blog/internet-security-layers/)
+
+After interviewing information security experts and experienced online-security journalists, we learned no single app can protect you from an ever-changing array of new malware. The best protection consists of setting up and maintaining layers of security on your devices: keeping your operating system, browsers, and software updated, paying for [decent but not overbearing virus and malware protection](https://thewirecutter.com/blog/best-antivirus/), installing browser extensions for Web privacy and security, and getting into smart security habits.
+
+
+
+
 
