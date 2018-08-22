@@ -1,10 +1,10 @@
-### 20018/08/22
+### 2018/08/22
 
-https://www.androidcentral.com/protect-wi-fi-network-hackers
+[https://www.androidcentral.com/protect-wi-fi-network-hackers](https://www.androidcentral.com/protect-wi-fi-network-hackers)
 
 It's your house and your network, filled with your stuff. Nobody wants some random intruder snooping around in it.
 
-[JERRY HILDENBRAND](https://www.androidcentral.com/author/Jerry%20Hildenbrand)
+[JERRY HILDENBRAND](https://www.androidcentral.com/author/Jerry Hildenbrand)
 
 ![](https://www.androidcentral.com/sites/androidcentral.com/files/styles/xlarge_wm_brw/public/article_images/2017/08/mi-router-3c-4.jpg?itok=eaVHNo-Q)
 
@@ -44,11 +44,11 @@ Changing the default name from something like Linksys doesn't make your network 
 
 Just a few years ago something like SeaToShiningSea22$ would have been a great password. It's easy to remember but complex enough that it's not going to be in any password cracking dictionary and using any brute force methods to crack it would have taken months or years of computing time. Those days are gone.
 
-You need a password of_reasonable_length that includes upper and lower case letters, numbers, and symbols. They all need to be in some random order that doesn't mean anything to even you, and if you can you'll even want to use spaces. Computer processors have come a long way and billions of clock cycles no longer take months or years, they take hours and days. Don't be that unlucky person who gets their network password cracked in just an hour and make it hard as hell by adding complexity.
+You need a password of\_reasonable\_length that includes upper and lower case letters, numbers, and symbols. They all need to be in some random order that doesn't mean anything to even you, and if you can you'll even want to use spaces. Computer processors have come a long way and billions of clock cycles no longer take months or years, they take hours and days. Don't be that unlucky person who gets their network password cracked in just an hour and make it hard as hell by adding complexity.
 
 Reasonable means different things to different encryption schemes. Generally, 8 to 10 characters are pretty good and 15 is even better because we are only interested in making the password more complex so a tool that tries to crack it needs more time. You don't need to write some sort of random character novella, just use a password generator that comes with your password manager. It's better at this stuff than we are.
 
-## _Beware_of MAC filtering and firewall settings
+## \_Beware\_of MAC filtering and firewall settings
 
 Using these tools to keep access to your Wi-Fi a bit more controlled can be tempting, but if you're not sure what you're doing you probably shouldn't. Take some time to read and understand what things are, what they can do, and how it all works together, first. A fun way to play around is to set up a second Wi-Fi router on your Wi-Fi to play around with — just be sure to unplug it when you're not playing until you're sure you can keep it from being exposed to traffic outside your own network.
 

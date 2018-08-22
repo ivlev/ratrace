@@ -13,6 +13,7 @@
 * [Обучение](obuchenie.md)
 * [Рожественские истории](rozhestvenskie-istorii.md)
 * [Инструменты, виджеты и прочие бантики](instrumenti-vidzheti-i-prochie-bantiki.md)
+  * 12 Tools To Run Your Family Office Like A Silicon Valley Startup
 * [Азбука](azbuka.md)
 * [За пределами азбуки](za-predelami-azbuki.md)
 * [Фронтир](obrazovanie.md)
