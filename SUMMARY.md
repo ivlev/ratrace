@@ -5,6 +5,7 @@
 * [Угрозы](ugrozi.md)
 * [Кругозор](krugozor.md)
 * [Безопасность](bezopasnost.md)
+  * [История НеПети](bezopasnost/istoriya-nepeti.md)
 * [Хайп](haip.md)
 * [Киберкульт](kiberkult.md)
 * [IoT](iot.md)
