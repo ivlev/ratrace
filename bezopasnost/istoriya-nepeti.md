@@ -1,3 +1,5 @@
+### 08.22.18 05:00 AM
+
 # [THE UNTOLD STORY OF NOTPETYA, THE MOST DEVASTATING CYBERATTACK IN HISTORY](https://www.wired.com/story/notpetya-cyberattack-ukraine-russia-code-crashed-the-world) {#articleTitleFull}
 
 Crippled ports. Paralyzed corporations. Frozen government agencies. How a single piece of code crashed the world.
@@ -68,7 +70,7 @@ NotPetya was propelled by two powerful hacker exploits working in tandem: One wa
 
 NotPetya’s architects combined that digital skeleton key with an older invention known as[Mimikatz](https://www.wired.com/story/how-mimikatz-became-go-to-hacker-tool/), created as a proof of concept by French security researcher Benjamin Delpy in 2011. Delpy had originally released Mimikatz to demonstrate that Windows left users’ passwords lingering in computers’ memory. Once hackers gained initial access to a computer, Mimikatz could pull those passwords out of RAM and use them to hack into other machines accessible with the same credentials. On networks with multiuser computers, it could even allow an automated attack to hopscotch from one machine to the next.
 
-Before NotPetya’s launch, Microsoft had released a patch for its EternalBlue vulnerability. But EternalBlue and Mimikatz together nonetheless made a virulent combination. “You can infect computers that aren’t patched, and then you can grab the passwords from those computers to infect other computers that_are_patched,” Delpy says.
+Before NotPetya’s launch, Microsoft had released a patch for its EternalBlue vulnerability. But EternalBlue and Mimikatz together nonetheless made a virulent combination. “You can infect computers that aren’t patched, and then you can grab the passwords from those computers to infect other computers that\_are\_patched,” Delpy says.
 
 NotPetya took its name from its resemblance to the[ransomware Petya](https://www.wired.com/story/petya-ransomware-outbreak-eternal-blue/), a piece of criminal code that surfaced in early 2016 and extorted victims to pay for a key to unlock their files. But NotPetya’s ransom messages were only a ruse: The malware’s goal was purely destructive. It irreversibly encrypted computers’ master boot records, the deep-seated part of a machine that tells it where to find its own operating system. Any ransom payment that victims tried to make was futile. No key even existed to reorder the scrambled noise of their computer’s contents.
 
@@ -234,12 +236,9 @@ In those physics, NotPetya reminds us, distance is no defense. Every barbarian i
 
 ---
 
-**Andy Greenberg**_\(_[_@a\_greenberg_](https://twitter.com/a_greenberg)_\) is a_WIRED_senior writer. This story is excerpted from his book_[Sandworm](https://www.penguinrandomhouse.com/books/597684/sandworm-by-andy-greenberg/),_forthcoming from Doubleday_.
+**Andy Greenberg**_\(_[_@a\_greenberg_](https://twitter.com/a_greenberg)_\) is a\_WIRED\_senior writer. This story is excerpted from his book_[Sandworm](https://www.penguinrandomhouse.com/books/597684/sandworm-by-andy-greenberg/),_forthcoming from Doubleday_.
 
 _This article appears in the September issue._[_Subscribe now_](https://subscribe.condenastdigital.com/subscribe/splits/wired/WIR_Edit_Hardcoded?source=Edit_Hardcoded)_._
 
 _Listen to this story, and other WIRED features, on the_[_Audm app_](https://app.adjust.com/c363eul)_._
-
-  
-
 
