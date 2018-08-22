@@ -66,6 +66,8 @@ After interviewing information security experts and experienced online-security 
 
 
 
+### 2018/08/22
+
 # [Crack Shadow Hashes After Getting Root on a Linux System](https://null-byte.wonderhowto.com/how-to/crack-shadow-hashes-after-getting-root-linux-system-0186386/)
 
 * BY
