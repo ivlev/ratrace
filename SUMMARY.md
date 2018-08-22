@@ -6,6 +6,7 @@
 * [Кругозор](krugozor.md)
 * [Безопасность](bezopasnost.md)
   * [История НеПети](bezopasnost/istoriya-nepeti.md)
+  * [How to protect your Wi-Fi network from hackers](bezopasnost/how-to-protect-your-wi-fi-network-from-hackers.md)
 * [Хайп](haip.md)
 * [Киберкульт](kiberkult.md)
 * [IoT](iot.md)
