@@ -18,4 +18,5 @@
 * [За пределами азбуки](za-predelami-azbuki.md)
 * [Фронтир](obrazovanie.md)
   * [MIT made an image editing AI that can replace the background in any image](obrazovanie/mit-made-an-image-editing-ai-that-can-replace-the-background-in-any-image.md)
+  * [Hands-on with the bizarrely fascinating Looking Glass volumetric display](obrazovanie/hands-on-with-the-bizarrely-fascinating-looking-glass-volumetric-display.md)
 
