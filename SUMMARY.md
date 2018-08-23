@@ -7,6 +7,7 @@
 * [Безопасность](bezopasnost.md)
   * [История НеПети](bezopasnost/istoriya-nepeti.md)
   * [How to protect your Wi-Fi network from hackers](bezopasnost/how-to-protect-your-wi-fi-network-from-hackers.md)
+  * [Google’s incognito mode isn’t as private as you thought](bezopasnost/googles-incognito-mode-isnt-as-private-as-you-thought.md)
 * [Хайп](haip.md)
 * [Киберкульт](kiberkult.md)
 * [IoT](iot.md)
