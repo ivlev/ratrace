@@ -14,6 +14,7 @@
 * [Рожественские истории](rozhestvenskie-istorii.md)
 * [Инструменты, виджеты и прочие бантики](instrumenti-vidzheti-i-prochie-bantiki.md)
   * [12 Tools To Run Your Family Office Like A Silicon Valley Startup](instrumenti-vidzheti-i-prochie-bantiki/12-tools-to-run-your-family-office-like-a-silicon-valley-startup.md)
+  * [Best Open Source Tools For Developers](instrumenti-vidzheti-i-prochie-bantiki/best-open-source-tools-for-developers.md)
 * [Азбука](azbuka.md)
 * [За пределами азбуки](za-predelami-azbuki.md)
 * [Фронтир](obrazovanie.md)
